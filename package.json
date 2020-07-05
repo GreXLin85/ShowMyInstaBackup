@@ -1,0 +1,29 @@
+{
+  "name": "showmyinstabackup",
+  "version": "1.0.0",
+  "description": "Use easily your own instagram backups",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/ShowMyInstaBackup.git"
+  },
+  "keywords": [
+    "instagram",
+    "backup"
+  ],
+  "author": "GreXLin85",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreXLin85/ShowMyInstaBackup/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/ShowMyInstaBackup#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.2.0"
+  }
+}
